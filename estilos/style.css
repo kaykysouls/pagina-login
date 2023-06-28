@@ -66,3 +66,26 @@ div#form > p{
     font-size: 0.8em;
 }
 
+.botao{
+    display: block;
+    width: 100%;
+    background-color: #FEF4F4;
+    border: none;
+    font-size: 1em;
+    background-color: #F65151;
+    border: solid 1px;
+    cursor: pointer;
+}
+
+.botao:hover{
+    background-color: #a15757;
+}
+
+form > a{
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: #F65151;
+}
+
